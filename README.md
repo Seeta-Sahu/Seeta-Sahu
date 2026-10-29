@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Seeta Sahu</h1>
-<h3 align="center">B.Tech CSE (AI) Student | Java | DSA Enthusiast | Machine Learning Learner</h3>
+<h1 align="center">Hi 👋, I'm Seeta </h1>
+<h3 align="center">B.Tech CSE (AI) Student  | SQL | Java | DSA Enthusiast | Machine Learning Learner</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 🤖 Currently learning **Machine Learning**
 - 🌱 Improving problem-solving and software development skills
 - 📚 Interested in AI, Software Engineering, and Open Source
-- 🎯 Goal: Become a Software Development Engineer (SDE)
+- 🎯 Goal: Grow as a Software Development Engineer (SDE) / Data Analyst
 
 ---
 
