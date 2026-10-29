@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seeta Sahu</h1>
-<h3 align="center">B.Tech CSE (AI) Student | Java Developer | DSA Enthusiast | Machine Learning Learner</h3>
+<h3 align="center">B.Tech CSE (AI) Student | Java | DSA Enthusiast | Machine Learning Learner</h3>
 
 ---
 
